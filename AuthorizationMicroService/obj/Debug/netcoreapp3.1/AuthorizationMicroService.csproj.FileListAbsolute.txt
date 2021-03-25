@@ -1,0 +1,68 @@
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorizationMicroService.styles.css
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\Admin\source\repos\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csprojAssemblyReference.cache
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorizationMicroService.styles.css
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\amanr\Dropbox\My PC (LAPTOP-GT5EKD5N)\Downloads\AuthorizationMicroService\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
